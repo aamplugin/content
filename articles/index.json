@@ -1,0 +1,37 @@
+{
+    "categories": [
+        {
+            "title": "Access Policy",
+            "slug": "access-policy"
+        },
+        {
+            "title": "Backend Access Controls",
+            "slug": "backend-access-controls",
+            "children": [
+                {
+                    "title": "Backend Menu",
+                    "slug": "backend-menu"
+                },
+                {
+                    "title": "Admin Toolbar",
+                    "slug": "admin-toolbar"
+                },
+                {
+                    "title": "Metaboxes &amp; Widgets",
+                    "slug": "metaboxes-widgets"
+                }
+            ]
+        }
+    ],
+    "articles": [
+        {
+            "title": "How to manage WordPress backend menu",
+            "slug": "how-to-manage-wordpress-backend-menu",
+            "excerpt": "Sometimes there is a need to hide unnecessary menus or submenus from the backend menu for other roles or users. Learn how you can hide and also restrict direct access to WordPress backend menu for any role or even individual user.",
+            "categories": [
+                "backend-menu"
+            ],
+            "filepath": "/articles/how-to-manage-wordpress-backend-menu.md"
+        }
+    ]
+}
